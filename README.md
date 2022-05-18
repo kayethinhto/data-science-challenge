@@ -11,12 +11,15 @@ Kaye Thinh-To
 > =SUM(D2:D5001) <br> =DIVIDE(D5003, 5000), which calculated $3145.128
 
 <br>
+
 However, this amount does not take into account the value of each shoe sold at a given store along with the quantity of shoes purchased per order. This results in outliers that ultimately skew the data. 
 
 <br>
+
 For example, order #4869 on row 4870 purchased 2000 shoes resulting in an order costing 704000. Not normalizing these values and taking into account the number of shoes is my hypothesized thought as to why the initial AOV calculation was larger than expected. 
 
 <br>
+
 Therefore, a better way to evaluate this data would be to normalize the data by calculating average value of each order by dividing order total by total items, and then taking the average of all averaged order amounts. 
 
 <br>

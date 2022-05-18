@@ -1,8 +1,6 @@
-# data-science-challenge
-
-# Fall 2022 Data Science Intern Challenge 
+## Fall 2022 Data Science Intern Challenge 
 Kaye Thinh-To
-## Question 1: <br>
+### Question 1: <br>
 <br>
 
 *[link](https://docs.google.com/spreadsheets/d/1ZIxs0CQS_7St7su8PKI7G-wd7cq8ktT8j4Jq55s_piU/edit?usp=sharing) to modified excel spreadsheet (calculations on lines 5003-5007).*<br>
@@ -39,7 +37,7 @@ Therefore, a better way to evaluate this data would be to normalize the data by 
 
 <br>
 
-## Question 2: <br>
+### Question 2: <br>
 <br>
 
 *Answers based on [this](https://www.w3schools.com/SQL/TRYSQL.ASP?FILENAME=TRYSQL_SELECT_ALL) dataset.*
